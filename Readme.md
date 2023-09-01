@@ -9,7 +9,3 @@
 🌱 目前，我正在学习多种编程语言，包括C、Python、Java等。我也在深入了解前端和后端开发以及机器学习算法。
 💞️ 我希望能够与其他程序员和开发者合作，一起建立有趣的项目，分享经验和知识。
 📫 如果想要联系我或与我合作，可以通过电子邮件 1379239710@qq.com 或者在GitHub上找到我：[https://github.com/ylm1379239710]。
-<!---
-ylm1379239710/ylm1379239710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
